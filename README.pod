@@ -1,0 +1,16 @@
+=head1 Title
+
+Staging area for Catalyst Advent 2018 submissions
+
+=head1 Overview
+
+If you want to submit something for Catalyst Advent 2018 you can fork
+this repository and use the Template.pod to get started. Please look
+at the /examples directory as well.  I think if you are building a
+complete sample application for your work, you can just follow the
+one given in the examples directory.  Its not required but having
+a full working application showing what you talked about is really
+a helpful resource for anyone to have (including yourself in a few
+years when you forgot everything).
+
+=cut
